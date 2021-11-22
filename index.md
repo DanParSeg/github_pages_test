@@ -138,13 +138,6 @@
               <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
               <div class="Pushbutton pushbutton_disabled" id="pbh"></div>
             </div>
-            
-            <!-- pushbuton 5-->
-            <div class="w3-col w3-center" style="width:54px">
-              <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-              <div class="Pushbutton pushbutton_disabled" id="pbh"></div>
-            </div>
-
 
           </div>
 
@@ -173,19 +166,19 @@
               <!-- LED 7 -->
               <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                <div class="Led led_disabled" id="leda"></div>
+                <div class="Led led_disabled" id="ledi"></div>
               </div>
 
               <!-- LED 6 -->
               <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                <div class="Led led_disabled" id="ledb"></div>
+                <div class="Led led_disabled" id="ledj"></div>
               </div>
 
               <!-- LED 5 -->
               <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                <div class="Led led_disabled" id="ledc"></div>
+                <div class="Led led_disabled" id="ledk"></div>
               </div>
 
               <!-- LED 4 -->
