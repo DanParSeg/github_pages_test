@@ -315,6 +315,57 @@ aaaaaaaaaaa
               </div>
 
             </div>
+            <div class="w3-row">
+
+              <!-- LED 7 A -->
+              <div class="w3-col w3-center" style="width:54px">
+                <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
+                <div class="Led led_disabled" id="ledA"></div>
+              </div>
+
+              <!-- LED 6 A -->
+              <div class="w3-col w3-center" style="width:54px">
+                <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
+                <div class="Led led_disabled" id="ledB"></div>
+              </div>
+
+              <!-- LED 5 A -->
+              <div class="w3-col w3-center" style="width:54px">
+                <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
+                <div class="Led led_disabled" id="ledC"></div>
+              </div>
+
+              <!-- LED 4 A -->
+              <div class="w3-col w3-center" style="width:54px">
+                <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
+                <div class="Led led_disabled" id="ledD"></div>
+              </div>
+
+              <!-- LED 3 A -->
+              <div class="w3-col w3-center" style="width:54px">
+                <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
+                <div class="Led led_disabled" id="ledE"></div>
+              </div>
+
+              <!-- LED 2 A -->
+              <div class="w3-col w3-center" style="width:54px">
+                <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
+                <div class="Led led_disabled" id="ledF"></div>
+              </div>
+
+              <!-- LED 1 A -->
+              <div class="w3-col w3-center" style="width:54px">
+                <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
+                <div class="Led led_disabled" id="ledG"></div>
+              </div>
+
+              <!-- LED 0 A -->
+              <div class="w3-col w3-center" style="width:54px">
+                <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
+                <div class="Led led_disabled" id="ledH"></div>
+              </div>
+
+            </div>
           </div>
         </div>
 
