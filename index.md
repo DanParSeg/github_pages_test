@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
 <html lang="es" dir="ltr">
   <head>
     <title>8 INPUTS - 8 OUTPUTS</title>
@@ -134,6 +134,12 @@
             </div>
 
             <!-- Forth pushbuton -->
+            <div class="w3-col w3-center" style="width:54px">
+              <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
+              <div class="Pushbutton pushbutton_disabled" id="pbh"></div>
+            </div>
+            
+            <!-- pushbuton 5-->
             <div class="w3-col w3-center" style="width:54px">
               <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
               <div class="Pushbutton pushbutton_disabled" id="pbh"></div>
