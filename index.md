@@ -560,13 +560,13 @@ aaaaaaaaaaa
               <!-- LED 1 8 -->
               <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                <div class="Led led_disabled" id="ledñ"></div>
+                <div class="Led led_disabled" id="led."></div>
               </div>
 
               <!-- LED 0 8 -->
               <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
-                <div class="Led led_disabled" id="ledÑ"></div>
+                <div class="Led led_disabled" id="led,"></div>
               </div>
 
             </div>
