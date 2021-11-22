@@ -226,9 +226,9 @@
        </div>
       </div>
    </div>
-
-   <!--
+   
    <!-- Parte inferior: Enlaces (TODO: enlazar mis cosas)-->
+   <!--
    <div class="w3-container w3-margin-top">
      <a class="w3-btn w3-sand" href="https://github.com/FPGAwars/LOVE-FPGA/raw/master/Web-panels/04-Switches-04-Buttons-08-LEDs/Panel-test.ice" download type="application/octet-stream" target="_blank">
        Test circuit 1
@@ -236,8 +236,9 @@
 
     <a class="w3-btn w3-sand" href="https://github.com/FPGAwars/LOVE-FPGA/tree/master/Web-panels/04-Switches-04-Buttons-08-LEDs" target="_blank">Github</a>
     <a class="w3-btn w3-sand" href="https://github.com/FPGAwars/LOVE-FPGA/wiki/Panel:-4-Switches,-4-Pulsadores-y-8-LEDs" target="_blank">DOC</a>
-   -->
+
    </div>
+   -->
 
 
   </body>
