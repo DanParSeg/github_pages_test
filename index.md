@@ -169,35 +169,35 @@
 
             <div class="w3-row">
 
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="leda"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledb"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledc"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledd"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="lede"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledf"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledg"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledh"></div>
               </div>
@@ -205,35 +205,35 @@
 
             <div class="w3-row">
 
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledi"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledj"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledk"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledl"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledm"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledn"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledo"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledp"></div>
               </div>
@@ -241,35 +241,35 @@
 
             <div class="w3-row">
 
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledq"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledr"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="leds"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledt"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledu"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledv"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledw"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledx"></div>
               </div>
@@ -277,35 +277,35 @@
 
             <div class="w3-row">
 
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledA"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledB"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledC"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledD"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledE"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledF"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledG"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledH"></div>
               </div>
@@ -313,35 +313,35 @@
 
             <div class="w3-row">
 
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledI"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledJ"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledK"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledL"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledM"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledN"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledO"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledP"></div>
               </div>
@@ -349,35 +349,35 @@
 
             <div class="w3-row">
 
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledQ"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledR"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledS"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledT"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledU"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledV"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledW"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledX"></div>
               </div>
@@ -385,35 +385,35 @@
 
             <div class="w3-row">
 
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="led0"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="led1"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="led2"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="led3"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="led4"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="led5"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="led6"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="led7"></div>
               </div>
@@ -421,35 +421,35 @@
 
             <div class="w3-row">
 
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="led8"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="led9"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledy"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledz"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledY"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="ledZ"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="led!"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="led#"></div>
               </div>
@@ -457,35 +457,35 @@
 
             <div class="w3-row">
 
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="led$"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="led%"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="led&"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="led("></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="led)"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="led*"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="led+"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="led,"></div>
               </div>
@@ -493,35 +493,35 @@
 
             <div class="w3-row">
 
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="led-"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="led."></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="led/"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="led:"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="led;"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="led<"></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="led="></div>
               </div>
-              <div class="w3-col w3-center" style="width:40px">
+              <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
                 <div class="Led led_disabled" id="led>"></div>
               </div>
