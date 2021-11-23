@@ -162,7 +162,10 @@
           <p class="w3-margin-top w3-text-green" style="margin:0px">LEDs</p>
           <div class="w3-container">
             <div class="w3-row">
-
+              hola
+            </div>
+            <div class="w3-row">
+              
               <!-- LED 7 a -->
               <div class="w3-col w3-center" style="width:54px">
                 <p class="w3-margin-top" style="margin:0px"><b>-</b></p>
